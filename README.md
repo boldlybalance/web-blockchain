@@ -2,7 +2,7 @@
 
 Blockchain & Web3 news site for the Boldly Balance network.
 
-**Live:** https://crypto.boldlybalance.life
+**Live:** https://web3.boldlybalance.life
 
 ## Structure
 
@@ -24,4 +24,4 @@ Blockchain & Web3 news site for the Boldly Balance network.
 
 ## Deployment
 
-Deployed via Vercel to `crypto.boldlybalance.life` subdomain.
+Deployed via Vercel to `web3.boldlybalance.life` subdomain.

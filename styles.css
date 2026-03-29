@@ -281,6 +281,14 @@ nav { display: flex; align-items: center; justify-content: space-between; }
     font-size: 1.25rem;
     margin-bottom: 0.5rem;
 }
+.article-card h3 a {
+    color: var(--text-primary);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.article-card h3 a:hover {
+    color: var(--accent-cyan);
+}
 .article-card .excerpt { color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 1rem; }
 .card-meta {
     display: flex;
