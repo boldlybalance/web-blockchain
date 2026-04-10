@@ -15,3 +15,17 @@ npm-debug.log*
 # Node (if needed)
 node_modules/
 package-lock.json
+
+# Secrets — DO NOT COMMIT
+.env
+.env.*
+*.pem
+*.key
+*.p8
+*.crt
+*.cer
+credentials*
+secrets*
+secrets/
+*.netrc
+.netrc
